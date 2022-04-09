@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PickaxeContoller
+  m_Controller: {fileID: 9100000, guid: 1c1c1702d72a3b9468480dc8beb1c6c6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 4613711402771145330, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: -7235846539770557952, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: 4781951162920444690, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: -5937666156612805366, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: 8823665244048482169, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: 367563601727614483, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: 59665523126103490, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: 6562484219463903026, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: -5270651720234473535, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: 1852846420727231279, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: -5311983957153539938, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: 462917566158205536, guid: 00217f288ee42284db84fb010a44153d, type: 3}
+  - m_OriginalClip: {fileID: -8695580576359653604, guid: cb9d55bd2257b264e91d8a6c55c466b7, type: 3}
+    m_OverrideClip: {fileID: 4781951162920444690, guid: 00217f288ee42284db84fb010a44153d, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e32a9e71ee11bea458c92838ba0adb63, type: 3}
+  m_Name: Archemy_Kit
+  m_EditorClassIdentifier: 
+  itemName: Archemy Kit
+  itemType: 3
+  itemDesc: "\uD3EC\uC158 \uC81C\uC791 \uB3C4\uAD6C \uD0A4\uD2B8"
+  itemImage: {fileID: 21300000, guid: b3b8376069e97904e88407b741397392, type: 3}
+  itemPrefab: {fileID: 277367228286031514, guid: 290726d469f88cf46bbdf6b66a115017, type: 3}
+  kitPrefab: {fileID: 7310762938712535300, guid: 1fb07ea450ef8cc4a88298618d67a1f6, type: 3}
+  kitPreviewPrefab: {fileID: 6917604961936089663, guid: f8a37ca037bada84898a4cac3f443b4f, type: 3}
+  weaponType: 
